@@ -1,0 +1,76 @@
+{
+    "languages": [
+        {
+            "language": "php",
+            "latestReleaseTag": "",
+            "considerInGeneration": true,
+            "version": "",
+            "changelog": "",
+            "deployToInternal": true,
+            "deployToExternal": true,
+            "createRelease": true,
+            "pushToPackageManager": true,
+            "generateSdkDocs": true
+        },
+        {
+            "language": "csharp",
+            "latestReleaseTag": "",
+            "considerInGeneration": true,
+            "version": "",
+            "changelog": "",
+            "deployToInternal": true,
+            "deployToExternal": true,
+            "createRelease": true,
+            "pushToPackageManager": true,
+            "generateSdkDocs": true
+        },
+        {
+            "language": "java",
+            "latestReleaseTag": "",
+            "considerInGeneration": true,
+            "version": "",
+            "changelog": "",
+            "deployToInternal": true,
+            "deployToExternal": true,
+            "createRelease": true,
+            "pushToPackageManager": true,
+            "generateSdkDocs": false
+        },
+        {
+            "language": "ruby",
+            "latestReleaseTag": "",
+            "considerInGeneration": true,
+            "version": "",
+            "changelog": "",
+            "deployToInternal": true,
+            "deployToExternal": true,
+            "createRelease": true,
+            "pushToPackageManager": true,
+            "generateSdkDocs": true
+        },
+        {
+            "language": "node",
+            "latestReleaseTag": "",
+            "considerInGeneration": true,
+            "version": "",
+            "changelog": "",
+            "deployToInternal": true,
+            "deployToExternal": true,
+            "createRelease": true,
+            "pushToPackageManager": true,
+            "generateSdkDocs": true
+        },
+        {
+            "language": "python",
+            "latestReleaseTag": "",
+            "considerInGeneration": true,
+            "version": "",
+            "changelog": "",
+            "deployToInternal": true,
+            "deployToExternal": true,
+            "createRelease": true,
+            "pushToPackageManager": true,
+            "generateSdkDocs": true
+        }
+    ]
+}
