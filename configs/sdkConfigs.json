@@ -72,5 +72,6 @@
             "pushToPackageManager": true,
             "generateSdkDocs": true
         }
-    ]
+    ],
+    "ingestionCompleted": true
 }
