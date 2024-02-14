@@ -50,10 +50,9 @@
         },
         {
             "language": "node",
-            "latestReleaseTag": "",
             "considerInGeneration": true,
-            "version": "",
-            "changelog": "",
+            "version": "1.0.0",
+            "changelog": "## INITIAL RELEASE\n",
             "deployToInternal": true,
             "deployToExternal": true,
             "createRelease": true,
