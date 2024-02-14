@@ -1,1 +1,2 @@
 Category,Service_SDK,Resource_API,Method_API,Method_SDK,ID,Verb,Summary,Request,Response,URL,Release
+ABC,ABC,DEF,listForms,listForms,WebForm_ListForms,get,List Forms,,#/definitions/WebFormSummaryList,/accounts/{account_id}/forms,2024.2
