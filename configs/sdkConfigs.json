@@ -72,5 +72,6 @@
             "generateSdkDocs": true
         }
     ],
-    "ingestionCompleted": true
+    "ingestionCompleted": true,
+    "sdkGenerationTriggered": true
 }
