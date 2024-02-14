@@ -1,0 +1,17 @@
+{
+    "sdkPrefix": "",
+    "opensourceFilename": "",
+    "buildPostman": true,
+    "buildDocs": true,
+    "buildDocsOld": true,
+    "buildSDKs": true,
+    "buildOpenSource": true,
+    "allowRelease": true,
+    "initialFileSetupFromSDK": true,
+    "initialFileMethodNameFixes": true,
+    "x-ds-setupRequired": false,
+    "releaseVersion": "",
+    "tags": [
+        "ready-for-review"
+    ]
+}
